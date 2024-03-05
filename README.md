@@ -1,6 +1,7 @@
+
 # Jaqueline Rodrigues
 
-Bem-vindo(a) ao meu GitHub! Eu sou [Jaqueline], um entusiasta de dados apaixonado por transformar números em insights. Me especializo em Python, SQL e Power BI, e estou sempre buscando novas maneiras de visualizar e interpretar dados para tomar decisões informadas.
+Bem-vinda ao meu GitHub! Eu sou Jaqueline Rodrigues, uma entusiasta de dados apaixonada por transformar números em insights. Me especializo em Python, SQL e Power BI, e estou sempre buscando novas maneiras de visualizar e interpretar dados para tomar decisões informadas.
 
 ## Sobre Mim
 
@@ -8,7 +9,7 @@ Bem-vindo(a) ao meu GitHub! Eu sou [Jaqueline], um entusiasta de dados apaixonad
 - 📊 Especialista em **SQL** para consultas complexas em bancos de dados.
 - 📈 Expert em criar dashboards interativos e relatórios informativos com **Power BI**.
 - 🌱 Atualmente aprendendo mais sobre machine learning e suas aplicações em ciência de dados.
-- 🤝 Aberto a colaborar em projetos relacionados a dados e análise de dados.
+- 🤝 Aberta a colaborar em projetos relacionados a dados e análise de dados.
 
 ## Projetos
 
@@ -31,18 +32,16 @@ Aqui estão alguns dos projetos em que trabalhei. Eles demonstram minha habilida
 - **Linguagens de Programação**: Python
 - **Banco de Dados**: SQL
 - **Ferramentas de Visualização de Dados**: Power BI
-- **Controle de Versão**: Git, GitHub
-- **Outras Ferramentas**: Excel, Jupyter Notebook
+- **Controle de Versão**: Git
 
 ## Educação
 
-- **[Seu Grau de Educação]** em [Sua Área de Estudo], [Sua Universidade] - [Ano de Formatura]
+- **Engenharia da Computação**, UVA-Universidade Veiga de Almeida - 3° Período (Formação prevista para 2027)
 
 ## Contato
 
-- 📧 Email: seuemail@example.com
+- 📧 Email: jaquers@outlook.com.br
 - 🔗 LinkedIn: [seu-linkedin](#)
-- 👤 GitHub: @[seu-usuario-github](#)
 
 ---
 
