@@ -53,4 +53,5 @@ Sinta-se à vontade para explorar meus projetos e me contatar para qualquer opor
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
+ 
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkyli&show_icons=true&theme=dracula&count_private=true)
